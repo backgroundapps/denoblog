@@ -1,6 +1,6 @@
 ---
 title: Fetch Data
-publish_date: 2022-09-07
+publish_date: 2022-09-10
 ---
 
 # Fetch Data

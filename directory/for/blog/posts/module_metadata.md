@@ -1,6 +1,6 @@
 ---
 title: Module Metadata
-publish_date: 2022-09-07
+publish_date: 2022-09-05
 ---
 
 # Module Metadata

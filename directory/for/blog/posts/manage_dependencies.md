@@ -1,6 +1,6 @@
 ---
 title: Managing Dependencies
-publish_date: 2022-09-07
+publish_date: 2022-09-06
 ---
 
 # Managing Dependencies

@@ -1,6 +1,6 @@
 ---
 title: Making Scripts Executable With #!Shebang
-publish_date: 2022-09-07
+publish_date: 2022-09-02
 ---
 
 # Making Scripts Executable With #!Shebang

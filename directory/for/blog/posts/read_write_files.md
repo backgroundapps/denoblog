@@ -1,6 +1,6 @@
 ---
 title: Read and Write Files
-publish_date: 2022-09-07
+publish_date: 2022-09-03
 ---
 
 # Read and Write Files
